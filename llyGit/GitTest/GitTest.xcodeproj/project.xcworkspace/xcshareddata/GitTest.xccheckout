@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8BF734F2-CDEB-4EBD-93B0-114139BD0310</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1C6D796DD1CEEC0A1E64D2488CD5B0841832ED1</key>
+		<string>https://github.com/liuleiyan/llyGit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GitTest/GitTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1C6D796DD1CEEC0A1E64D2488CD5B0841832ED1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liuleiyan/llyGit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1C6D796DD1CEEC0A1E64D2488CD5B0841832ED1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1C6D796DD1CEEC0A1E64D2488CD5B0841832ED1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>llyGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
